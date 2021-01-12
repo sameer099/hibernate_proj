@@ -1,0 +1,10 @@
+/lib
+/.classpath
+/.project
+/.settings
+/bin/com/luv2code/hibernate/demo/CreateDemo.class
+/bin/com/luv2code/hibernate/demo/DeleteDemo.class
+/bin/com/luv2code/hibernate/demo/entity/Instructor.class
+/bin/com/luv2code/hibernate/demo/entity/InstructorDetail.class
+/bin/com/luv2code/hibernate/demo/entity/Student.class
+/bin/com/luv2code/jdbc/TestJdbc.class
